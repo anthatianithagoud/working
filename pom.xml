@@ -147,7 +147,12 @@
 				</configuration>
 			</plugin>
 
-			
+			<plugin>
+  <groupId>org.sonarsource.scanner.maven</groupId>
+  <artifactId>sonar-maven-plugin</artifactId>
+  <version>4.4.1.5277</version>
+</plugin>
+
   
    
  
