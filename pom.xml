@@ -146,6 +146,14 @@
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
+
+			//ihave added 
+			<plugin>
+   				 <groupId>org.sonarsource.scanner.maven</groupId>
+   				 <artifactId>sonar-maven-plugin</artifactId>
+   				 <version>4.4.1.5277</version> <!-- check for latest version -->
+			</plugin>
+
 			
 </plugins>
 	</build>
