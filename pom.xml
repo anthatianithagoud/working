@@ -21,7 +21,7 @@
 
         <!-- SonarQube -->
         <sonar.host.url>http://18.206.173.114:9000</sonar.host.url>
-        <sonar.login>SONAR_TOKEN_HERE</sonar.login>
+        <sonar.login>squ_54cbbdf7512c52c618e4349cee13135d268fbb2c</sonar.login>
     </properties>
 
     <!-- ================= DEPENDENCIES ================= -->
